@@ -6,13 +6,16 @@ This project exists to help developers learn, grow, and collaborate in open sour
 ---
 
 ## 📌 Table of Contents
-- [Code of Conduct](#code-of-conduct)
-- [How Can I Contribute?](#how-can-i-contribute)
-- [Getting Started](#getting-started)
-- [Contribution Workflow](#contribution-workflow)
-- [Commit Message Guidelines](#commit-message-guidelines)
-- [Pull Request Rules](#pull-request-rules)
-- [Need Help?](#need-help)
+
+| Section | Description |
+|--------|-------------|
+| Code of Conduct | Community rules and expected behavior for contributors |
+| How Can I Contribute? | Ways you can participate in the project |
+| Getting Started | Steps to set up the project locally |
+| Contribution Workflow | Step-by-step guide for making contributions |
+| Commit Message Guidelines | Rules for writing clean and consistent commit messages |
+| Pull Request Rules | Guidelines for submitting high-quality pull requests |
+| Need Help? | Where to ask questions and get support |
 
 ---
 
