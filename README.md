@@ -85,3 +85,8 @@ Contributions are always welcome.
 If you want to contribute, please check the contribution guidelines inside:
 
 [CONTRIBUTING.md](./CONTRIBUTING.md)
+
+---
+
+## 👨‍💻 Author
+Ahmed Talaat
