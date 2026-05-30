@@ -8,11 +8,11 @@
 
 A community-driven open source repository built to help developers start their journey in Open Source and improve their real-world development skills.
 
-<p>
-  <img src="https://img.shields.io/badge/Open%20Source-Friendly-brightgreen" />
-  <img src="https://img.shields.io/badge/Beginner-Friendly-blue" />
-  <img src="https://img.shields.io/badge/Contributions-Welcome-orange" />
-  <img src="https://img.shields.io/badge/License-MIT-purple" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20Source-Friendly-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Beginner-Friendly-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Contributions-Welcome-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/License-MIT-purple?style=for-the-badge" />
 </p>
 
 </div>
