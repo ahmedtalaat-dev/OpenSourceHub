@@ -89,4 +89,6 @@ If you want to contribute, please check the contribution guidelines inside:
 ---
 
 ## 👨‍💻 Author
-Ahmed Talaat
+
+[Ahmed Talaat](https://www.linkedin.com/in/ahmedtalaat-dev/)  
+**Front-End Developer | React.js & Next.js Developer**
