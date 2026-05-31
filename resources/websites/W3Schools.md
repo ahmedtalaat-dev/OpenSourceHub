@@ -1,5 +1,9 @@
 # W3Schools 🌐
 
+<p align="center">
+  <img src="./assets/w3schools.png" alt="W3Schools Homepage" width="100%">
+</p>
+
 ## Overview
 
 **W3Schools** is one of the most popular online learning platforms for web development and programming. It provides beginner-friendly tutorials, interactive examples, quizzes, and exercises that help developers learn by doing.
