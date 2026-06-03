@@ -1,3 +1,5 @@
+![Front-End Developer Roadmap Banner](./assets/frontend.png)
+
 # 🚀 Front-End Developer Roadmap
 
 A complete roadmap to become a professional Front-End Developer.
