@@ -1,12 +1,12 @@
 # 🚀 Front-End Developer Roadmap
 
-A complete roadmap for becoming a modern Front-End Developer.
+A complete roadmap to become a professional Front-End Developer.
 
 ---
 
-## 🌐 1. Internet Fundamentals
+# 🟢 Beginner Level
 
-Before learning Front-End development, understand how the web works.
+## 🌐 Internet Fundamentals
 
 ### Topics
 
@@ -16,17 +16,9 @@ Before learning Front-End development, understand how the web works.
 - Domain Names
 - Hosting
 - Browsers
-
-### Learn More
-
-- What happens when you type a URL in a browser?
 - Client-Server Architecture
 
----
-
-## 📝 2. HTML
-
-HTML provides the structure of web pages.
+## 📝 HTML
 
 ### Topics
 
@@ -35,24 +27,15 @@ HTML provides the structure of web pages.
 - Forms
 - Tables
 - Multimedia
-- Accessibility
+- Accessibility Basics
 
-### Projects
-
-- Personal Profile Page
-- Blog Layout
-- Product Landing Page
-
----
-
-## 🎨 3. CSS
-
-CSS controls the appearance of web pages.
+## 🎨 CSS
 
 ### Topics
 
 - Selectors
 - Box Model
+- Display
 - Positioning
 - Flexbox
 - CSS Grid
@@ -61,19 +44,9 @@ CSS controls the appearance of web pages.
 - Animations
 - Transitions
 
-### Projects
+## ⚡ JavaScript Fundamentals
 
-- Responsive Landing Page
-- Pricing Section
-- Portfolio Website
-
----
-
-## ⚡ 4. JavaScript
-
-JavaScript adds interactivity to websites.
-
-### Fundamentals
+### Topics
 
 - Variables
 - Data Types
@@ -82,39 +55,19 @@ JavaScript adds interactivity to websites.
 - Arrays
 - Objects
 - Loops
+- Scope
+- Closures
+- Error Handling
 
-### DOM
+### DOM & Browser APIs
 
 - DOM Manipulation
 - Events
 - Event Delegation
+- Local Storage
+- Session Storage
 
-### Modern JavaScript
-
-- ES6+
-- Arrow Functions
-- Destructuring
-- Spread Operator
-- Modules
-
-### Asynchronous JavaScript
-
-- Callbacks
-- Promises
-- Async/Await
-- Fetch API
-
-### Projects
-
-- Calculator
-- To-Do App
-- Weather App
-
----
-
-## 🔧 5. Git & GitHub
-
-Version control is essential for every developer.
+## 🔧 Git & GitHub
 
 ### Topics
 
@@ -124,14 +77,61 @@ Version control is essential for every developer.
 - Pull Requests
 - GitHub Workflow
 
-### Projects
+---
 
-- Host Projects on GitHub
-- Contribute to Open Source
+# 🏆 Beginner Projects
+
+### Personal Portfolio Website
+
+- Responsive Design
+- Modern Layout
+- Personal Branding
+
+### Product Landing Page
+
+- Flexbox
+- CSS Grid
+- Responsive Design
+
+### Calculator App
+
+- DOM Manipulation
+- JavaScript Events
+
+### To-Do App
+
+- CRUD Operations
+- Local Storage
+
+### Multi-Page Business Website
+
+- Navigation
+- Forms
+- Responsive Layout
 
 ---
 
-## 📦 6. Package Managers
+# 🟡 Intermediate Level
+
+## ⚡ Modern JavaScript
+
+### ES6+
+
+- Arrow Functions
+- Template Literals
+- Destructuring
+- Spread Operator
+- Rest Parameters
+- Modules
+
+### Asynchronous JavaScript
+
+- Promises
+- Async/Await
+- Fetch API
+- Error Handling
+
+## 📦 Package Managers
 
 ### Learn
 
@@ -145,34 +145,7 @@ Version control is essential for every developer.
 - Scripts
 - Dependency Management
 
----
-
-## ⚛️ 7. React.js
-
-React is the most popular Front-End framework.
-
-### Topics
-
-- Components
-- JSX
-- Props
-- State
-- Hooks
-- Forms
-- Routing
-- API Integration
-
-### Projects
-
-- Movie App
-- Blog App
-- Dashboard
-
----
-
-## 🔷 8. TypeScript
-
-TypeScript makes JavaScript more scalable.
+## 🔷 TypeScript
 
 ### Topics
 
@@ -182,32 +155,25 @@ TypeScript makes JavaScript more scalable.
 - Generics
 - Utility Types
 
----
+## ⚛️ React.js
 
-## ▲ 9. Next.js
+### Fundamentals
 
-Production-ready React framework.
+- Components
+- JSX
+- Props
+- State
+- Hooks
 
-### Topics
+### Advanced React
 
-- App Router
-- Server Components
-- Client Components
-- Dynamic Routing
-- Metadata API
-- Dynamic SEO
-- Dynamic Open Graph Images
-- Server Actions
+- Forms
+- Routing
+- API Integration
+- Custom Hooks
+- Context API
 
-### Projects
-
-- Portfolio Website
-- Blog Platform
-- E-Commerce Store
-
----
-
-## 🎨 10. Styling Solutions
+## 🎨 Styling Solutions
 
 ### CSS Frameworks
 
@@ -220,11 +186,9 @@ Production-ready React framework.
 - Material UI
 - Chakra UI
 
----
+## 🗄️ State Management
 
-## 🗄️ 11. State Management
-
-### Learn
+### Topics
 
 - Context API
 - Redux Toolkit
@@ -233,7 +197,49 @@ Production-ready React framework.
 
 ---
 
-## 🔐 12. Authentication & Security
+# 🏆 Intermediate Projects
+
+### Weather Application
+
+- API Integration
+- Search Functionality
+
+### Expense Tracker
+
+- State Management
+- CRUD Operations
+
+### Blog Platform
+
+- Authentication
+- Forms
+- Routing
+
+### Admin Dashboard
+
+- Analytics
+- Charts
+- Responsive Layout
+
+---
+
+# 🔴 Advanced Level
+
+## ▲ Next.js
+
+### Topics
+
+- App Router
+- Server Components
+- Client Components
+- Dynamic Routing
+- Metadata API
+- Dynamic SEO
+- Dynamic Open Graph Images
+- Server Actions
+- Middleware
+
+## 🔐 Authentication & Security
 
 ### Topics
 
@@ -243,9 +249,7 @@ Production-ready React framework.
 - OAuth
 - Protected Routes
 
----
-
-## ⚡ 13. Performance Optimization
+## ⚡ Performance Optimization
 
 ### Topics
 
@@ -255,9 +259,7 @@ Production-ready React framework.
 - Memoization
 - Lighthouse Audits
 
----
-
-## ♿ 14. Accessibility (A11y)
+## ♿ Accessibility (A11y)
 
 ### Topics
 
@@ -266,9 +268,7 @@ Production-ready React framework.
 - Keyboard Navigation
 - Screen Readers
 
----
-
-## 🚀 15. Deployment
+## 🚀 Deployment & DevOps
 
 ### Platforms
 
@@ -282,57 +282,99 @@ Production-ready React framework.
 - CI/CD
 - Production Builds
 
----
+## 🧪 Testing
 
-## 📂 Recommended Projects
+### Topics
 
-### Beginner
-
-- Personal Portfolio
-- Calculator
-- To-Do App
-
-### Intermediate
-
-- Weather App
-- Blog Platform
-
-### Advanced
-
-- E-Commerce Website
-- Learning Management System
-- SaaS Dashboard
+- Jest
+- React Testing Library
+- Playwright
+- Unit Testing
+- Integration Testing
+- E2E Testing
 
 ---
 
-## 📚 Additional Resources
+# 🏆 Advanced Projects
 
-### Documentation
+### Full E-Commerce Platform
+
+- Authentication
+- Shopping Cart
+- Checkout
+- Dynamic SEO
+- Dynamic Open Graph
+
+### Learning Management System (LMS)
+
+- Courses
+- Video Lessons
+- Progress Tracking
+- User Roles
+
+### SaaS Dashboard
+
+- Analytics
+- Authentication
+- Subscription Plans
+
+### Real-Time Chat Application
+
+- WebSockets
+- Notifications
+- Online Status
+
+### Enterprise Management System
+
+- Multi-Role Authentication
+- Reports
+- Dashboards
+
+---
+
+# 📚 Additional Resources
+
+## Documentation
 
 - MDN Web Docs
+- JavaScript.info
+- TypeScript Documentation
 - React Documentation
 - Next.js Documentation
-- TypeScript Documentation
+- Tailwind CSS Documentation
 
-### Practice Platforms
+## Practice Platforms
 
 - Frontend Mentor
 - CodeWars
 - LeetCode
+- HackerRank
 
 ---
 
-## 🎯 Final Goal
+# 🎯 Final Goal
 
 After completing this roadmap, you should be able to:
 
 - Build responsive websites
-- Create modern React applications
-- Develop production-ready Next.js projects
+- Create scalable React applications
+- Develop production-ready Next.js applications
 - Work with APIs
-- Optimize performance
-- Deploy professional web applications
-- Contribute to open-source projects
+- Implement Authentication
+- Optimize Performance
+- Deploy Professional Applications
+- Contribute to Open Source
+
+---
+
+# ⏳ Estimated Timeline
+
+| Level | Duration |
+|---------|---------|
+| 🟢 Beginner | 2–3 Months |
+| 🟡 Intermediate | 3–5 Months |
+| 🔴 Advanced | 4–6 Months |
+
+**Total:** 9–14 Months
 
 Happy Coding! 🚀
-
