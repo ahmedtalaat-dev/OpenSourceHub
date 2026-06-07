@@ -84,5 +84,9 @@ This is a learning-focused repository, so consistency matters more than speed. P
 ---
 
 ## 👨‍💻 Author
+
 Ahmed Talaat  
-LinkedIn: https://www.linkedin.com/in/ahmedtalaat-dev/
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/ahmedtalaat-dev/)
+
+[![Codeforces](https://img.shields.io/badge/Codeforces-Profile-orange?style=for-the-badge)](https://codeforces.com/profile/ahmedtalaat-dev)
