@@ -15,36 +15,38 @@ This repository is created to:
 
 ## 📚 Table of Contents
 
-- [Lesson 01 - Introduction](./lesson-01-introduction/)
-- [Lesson 02 - Create & Drop Database](./lesson-02-create-drop-database/)
-- [Lesson 03 - Create & Drop Schema](./lesson-03-create-drop-schema/)
-- [Lesson 04 - Data Types](./lesson-04-data-types/)
-- [Lesson 05 - Create Table](./lesson-05-create-table/)
-- [Lesson 06 - Constraints Introduction](./lesson-06-constraints-introduction/)
-- [Lesson 07 - Primary Key](./lesson-07-primary-key/)
-- [Lesson 08 - Unique Constraint](./lesson-08-unique-constraint/)
-- [Lesson 09 - Check Constraint](./lesson-09-check-constraint/)
-- [Lesson 10 - Foreign Key](./lesson-10-foreign-key/)
-- [Lesson 11 - Constraints Review](./lesson-11-constraints-review/)
-- [Lesson 12 - Alter Table Part 1](./lesson-12-alter-table-part-1/)
-- [Lesson 13 - Alter Table Part 2](./lesson-13-alter-table-part-2/)
-- [Lesson 14 - Alter Table Part 3](./lesson-14-alter-table-part-3/)
-- [Lesson 15 - Store Database Project](./lesson-15-store-database-project/)
-- [Lesson 16 - Insert Into](./lesson-16-insert-into/)
-- [Lesson 17 - Update Statement](./lesson-17-update-statement/)
-- [Lesson 18 - Delete Statement](./lesson-18-delete-statement/)
-- [Lesson 19 - Select Statement Part 1](./lesson-19-select-statement-part-1/)
-- [Lesson 20 - Select Statement Part 2](./lesson-20-select-statement-part-2/)
-- [Lesson 21 - Inner Join](./lesson-21-inner-join/)
-- [Lesson 22 - Join Multiple Tables](./lesson-22-join-multiple-tables/)
-- [Lesson 23 - Aggregate Functions](./lesson-23-aggregate-functions/)
-- [Lesson 24 - Group By](./lesson-24-group-by/)
-- [Lesson 25 - Join, Group By & Order By](./lesson-25-join-groupby-orderby/)
-- [Lesson 26 - Select Top](./lesson-26-select-top/)
-- [Lesson 27 - Nested Queries](./lesson-27-nested-queries/)
-- [Lesson 28 - Views](./lesson-28-views/)
-- [SQL MCQ Questions](./sql-mcq-questions/)
-- [SQL MCQ Answers](./sql-mcq-answers/)
+| # | Lesson | Link |
+|---|---------|------|
+| 01 | Lesson 01 - Introduction | [Open](./lesson-01-introduction/) |
+| 02 | Lesson 02 - Create & Drop Database | [Open](./lesson-02-create-drop-database/) |
+| 03 | Lesson 03 - Create & Drop Schema | [Open](./lesson-03-create-drop-schema/) |
+| 04 | Lesson 04 - Data Types | [Open](./lesson-04-data-types/) |
+| 05 | Lesson 05 - Create Table | [Open](./lesson-05-create-table/) |
+| 06 | Lesson 06 - Constraints Introduction | [Open](./lesson-06-constraints-introduction/) |
+| 07 | Lesson 07 - Primary Key | [Open](./lesson-07-primary-key/) |
+| 08 | Lesson 08 - Unique Constraint | [Open](./lesson-08-unique-constraint/) |
+| 09 | Lesson 09 - Check Constraint | [Open](./lesson-09-check-constraint/) |
+| 10 | Lesson 10 - Foreign Key | [Open](./lesson-10-foreign-key/) |
+| 11 | Lesson 11 - Constraints Review | [Open](./lesson-11-constraints-review/) |
+| 12 | Lesson 12 - Alter Table Part 1 | [Open](./lesson-12-alter-table-part-1/) |
+| 13 | Lesson 13 - Alter Table Part 2 | [Open](./lesson-13-alter-table-part-2/) |
+| 14 | Lesson 14 - Alter Table Part 3 | [Open](./lesson-14-alter-table-part-3/) |
+| 15 | Lesson 15 - Store Database Project | [Open](./lesson-15-store-database-project/) |
+| 16 | Lesson 16 - Insert Into | [Open](./lesson-16-insert-into/) |
+| 17 | Lesson 17 - Update Statement | [Open](./lesson-17-update-statement/) |
+| 18 | Lesson 18 - Delete Statement | [Open](./lesson-18-delete-statement/) |
+| 19 | Lesson 19 - Select Statement Part 1 | [Open](./lesson-19-select-statement-part-1/) |
+| 20 | Lesson 20 - Select Statement Part 2 | [Open](./lesson-20-select-statement-part-2/) |
+| 21 | Lesson 21 - Inner Join | [Open](./lesson-21-inner-join/) |
+| 22 | Lesson 22 - Join Multiple Tables | [Open](./lesson-22-join-multiple-tables/) |
+| 23 | Lesson 23 - Aggregate Functions | [Open](./lesson-23-aggregate-functions/) |
+| 24 | Lesson 24 - Group By | [Open](./lesson-24-group-by/) |
+| 25 | Lesson 25 - Join, Group By & Order By | [Open](./lesson-25-join-groupby-orderby/) |
+| 26 | Lesson 26 - Select Top | [Open](./lesson-26-select-top/) |
+| 27 | Lesson 27 - Nested Queries | [Open](./lesson-27-nested-queries/) |
+| 28 | Lesson 28 - Views | [Open](./lesson-28-views/) |
+| MCQ | SQL MCQ Questions | [Open](./sql-mcq-questions/) |
+| MCQ | SQL MCQ Answers | [Open](./sql-mcq-answers/) |
 
 ---
 
