@@ -81,7 +81,6 @@ To build one of the most beginner-friendly Open Source communities where develop
 ## 🤝 Contributions
 
 Contributions are always welcome.
-
 If you want to contribute, please check the contribution guidelines inside:
 
 [CONTRIBUTING.md](./CONTRIBUTING.md)
